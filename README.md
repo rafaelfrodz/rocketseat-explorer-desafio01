@@ -2,7 +2,7 @@
 
 # Sobre o desafio
 
-Realizar criação de uma página web estilizada utilizando HTML e CSS. [Clique aqui para acessar a página](https://rafaelfrodz.github.io/rocketseat-explorer-desafio01/)
+Realizar a correção do código quebrado de uma página web estilizada com HTML e CSS. [Clique aqui para acessar a página](https://rafaelfrodz.github.io/rocketseat-explorer-desafio01/)
 
 ## Objetivo
 
